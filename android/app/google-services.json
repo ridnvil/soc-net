@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "387814516184",
+    "firebase_url": "https://nvilsoc.firebaseio.com",
+    "project_id": "nvilsoc",
+    "storage_bucket": "nvilsoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387814516184:android:40083ccbb3b7322b747ead",
+        "android_client_info": {
+          "package_name": "com.example.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387814516184-bgpo23fsskt49vmh688alrqebd4rjcjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluttershare",
+            "certificate_hash": "6538def2f72fb4e09c29cf20b60fbf485a8ab57b"
+          }
+        },
+        {
+          "client_id": "387814516184-1p377ca6lbhmbl3bffreh56q0ru00ivm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluttershare",
+            "certificate_hash": "288e32e375e459e6e12b288e899682f2fb762e16"
+          }
+        },
+        {
+          "client_id": "387814516184-g2fsqrsf9o0b0q0vispb81ee3g9e31o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8UQNzZS4DxvlKwpGMlUlRGUOtbfh86o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387814516184-g2fsqrsf9o0b0q0vispb81ee3g9e31o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
